@@ -1,0 +1,13 @@
+The project is about helping users understand the basics of online safety through simple interaction conversation.
+When the program starts, it will play a greeting audio and display an ACSII logo.
+The users will be able to chat to the bot by typing safety related questions such as phishing, password and web browsing.
+Here are the commands to say to the bot: How are you
+                                         Purpose
+                                         Password
+                                         Phishing
+                                         Browsing
+                                         Malware
+                                         Privacy
+                                         Wifi
+The functionalities that are present is the displayng of the ASCII logo, the greeting audio,
+colouring of the words and bot rsponses.
