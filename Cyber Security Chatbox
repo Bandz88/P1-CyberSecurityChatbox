@@ -1,5 +1,11 @@
 The project is about helping users understand the basics of online safety through simple interaction conversation.
 When the program starts, it will play a greeting audio and display an ACSII logo.
+
+Video: https://youtu.be/Cfo5imyzknY
+
+The setup of the system: Open visual studio (if you dont have, install it), you required to choose the project that you want to see.
+(Select the projects name). Once its fully loaded in. select F5 to run the program.
+
 The users will be able to chat to the bot by typing safety related questions such as phishing, password and web browsing.
 Here are the commands to say to the bot: How are you
                                          Purpose
@@ -9,5 +15,11 @@ Here are the commands to say to the bot: How are you
                                          Malware
                                          Privacy
                                          Wifi
-The functionalities that are present is the displayng of the ASCII logo, the greeting audio,
-colouring of the words and bot rsponses.
+The functionalities that are present:
+1.Display of ASCII logo
+2.Greeting audio
+3.Chatbot responses
+
+Future improvements:
+1.Advanced chatbot responses
+2.better memory
